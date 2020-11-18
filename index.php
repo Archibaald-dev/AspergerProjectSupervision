@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/style_header.css">
     <link rel="stylesheet" href="css/style_syndrome.css">
     <link rel="stylesheet" href="css/style_footer.css">
+    <link rel="stylesheet" href="https://use.typekit.net/tlt1nkb.css">
     <title>Document</title>
     
 </head>

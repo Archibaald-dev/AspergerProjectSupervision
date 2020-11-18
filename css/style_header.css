@@ -3,6 +3,8 @@
     padding: 10px;
     color: #000;
     text-decoration: none;
+    
+    font-size: 17.5px;
 }
 
 .DL:hover {
@@ -10,8 +12,16 @@
     text-decoration: none;
 }
 
+.navbar-brand {
+    height: 55px;
+    width: 55px;
+    background-color: #78E08F;
+}
+
 .navbar {
-    padding: 2rem 1rem;
+    padding: 27px 16px;
+    font-family: gooddog-new, sans-serif;
+    font-size: 20px;
 }
 
 .navbar ul li, .DL {
@@ -33,7 +43,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: calc(100vh - (44px + 64px));
+    height: calc(100vh - (55px + 54px));
     display: flex;
     justify-content: center;
     align-items: center;
